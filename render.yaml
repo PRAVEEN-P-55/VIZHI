@@ -1,9 +1,9 @@
-﻿# render.yaml — Render Blueprint for VIZHI
+# render.yaml � Render Blueprint for VIZHI
 # Docs: https://render.com/docs/blueprint-spec
 #
 # Deploy the full stack in one click:
 #   1. Push this repo to GitHub
-#   2. Go to render.com → New → Blueprint
+#   2. Go to render.com ? New ? Blueprint
 #   3. Connect the PRAVEEN-P-55/VIZHI repo
 #   4. Fill in secret env vars when prompted (JWT_SECRET, ANTHROPIC_API_KEY)
 #   5. Click "Apply"
@@ -69,4 +69,4 @@ services:
     dockerContext: .
     envVars:
       - key: BACKEND_URL
-        value: https://vizhi-backend.onrender.com
+        value: https://vizhi-backend-2kts.onrender.com
