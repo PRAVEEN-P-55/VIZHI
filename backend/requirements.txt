@@ -1,0 +1,28 @@
+# VIZHI backend dependencies (Python 3.11+)
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+pydantic-settings
+pydantic[email]
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+
+# data + ML
+numpy
+pandas
+scikit-learn
+xgboost
+shap
+statsmodels
+networkx
+psycopg[binary]
+redis
+
+# verification
+pytest
+httpx
+
+# Optional at runtime: templates remain available when no API key is configured.
+anthropic
