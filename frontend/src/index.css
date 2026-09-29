@@ -1,0 +1,212 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+  font-synthesis: none;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: #090a08;
+  color: #f4f4f0;
+  font-family: "Inter", "Segoe UI", system-ui, sans-serif;
+  line-height: 1.5;
+}
+
+::selection {
+  background: rgba(132, 230, 0, 0.28);
+  color: #ffffff;
+}
+
+.tech-grid {
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.018) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.018) 1px, transparent 1px),
+    radial-gradient(circle at 50% -10%, rgba(132, 230, 0, 0.07), transparent 34rem);
+  background-size: 48px 48px, 48px 48px, 100% 100%;
+}
+
+h1,
+h2,
+h3 {
+  text-wrap: balance;
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
+
+button,
+a {
+  touch-action: manipulation;
+}
+
+button,
+a,
+input,
+textarea,
+select {
+  transition-duration: 180ms;
+  transition-property: color, background-color, border-color, opacity, box-shadow, transform;
+}
+
+button:not(:disabled),
+a[href] {
+  cursor: pointer;
+}
+
+button,
+a,
+input,
+textarea,
+select {
+  outline: none;
+}
+
+:focus-visible {
+  outline: 3px solid rgba(132, 230, 0, 0.38);
+  outline-offset: 2px;
+}
+
+input,
+textarea,
+select {
+  color: #f4f4f0;
+}
+
+select option {
+  background: #111210;
+  color: #f4f4f0;
+}
+
+/* Watermelon-inspired squared technical geometry; status pills remain round. */
+.rounded-lg,
+.rounded-xl,
+.rounded-2xl,
+.rounded-3xl {
+  border-radius: 0.125rem;
+}
+
+/* thin control-room scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background: #3f413b;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* skeleton shimmer */
+@keyframes shimmer {
+  0% {
+    background-position: -400px 0;
+  }
+  100% {
+    background-position: 400px 0;
+  }
+}
+.skeleton {
+  background: linear-gradient(90deg, #171816 25%, #242620 50%, #171816 75%);
+  background-size: 800px 100%;
+  animation: shimmer 1.4s infinite linear;
+  border-radius: 6px;
+}
+
+/* Leaflet light tuning */
+.leaflet-container {
+  background: #111210;
+}
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+  background: #111210;
+  color: #f4f4f0;
+}
+
+.leaflet-control-layers,
+.leaflet-bar a {
+  background: #111210;
+  color: #f4f4f0;
+  border-color: rgba(255, 255, 255, 0.12);
+}
+
+.leaflet-bar a:hover {
+  background: #1b1d18;
+}
+
+/* Compatibility layer for existing page utilities while the dark token system is active. */
+.bg-white,
+.bg-white\/90,
+.bg-white\/95,
+.bg-slate-50 {
+  background-color: #111210 !important;
+}
+
+.bg-blue-50,
+.bg-blue-100,
+.bg-cyan-100 {
+  background-color: rgba(132, 230, 0, 0.08) !important;
+}
+
+.bg-red-50 {
+  background-color: rgba(255, 107, 107, 0.09) !important;
+}
+
+.border-slate-100,
+.border-slate-200,
+.border-slate-300 {
+  border-color: rgba(255, 255, 255, 0.12) !important;
+}
+
+.border-blue-100,
+.border-blue-200,
+.border-blue-300 {
+  border-color: rgba(132, 230, 0, 0.32) !important;
+}
+
+.border-red-200 {
+  border-color: rgba(255, 107, 107, 0.34) !important;
+}
+
+.hover\:bg-slate-50:hover,
+.hover\:bg-slate-100:hover {
+  background-color: rgba(255, 255, 255, 0.055) !important;
+}
+
+.hover\:bg-blue-50:hover,
+.hover\:bg-blue-700:hover {
+  background-color: rgba(132, 230, 0, 0.86) !important;
+}
+
+.hover\:bg-red-50:hover {
+  background-color: rgba(255, 107, 107, 0.12) !important;
+}
+
+.bg-accent.text-white,
+.hover\:bg-blue-700.text-white {
+  color: #090a08 !important;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
