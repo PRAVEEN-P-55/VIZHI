@@ -1,7 +1,9 @@
 import axios from "axios";
 
-// All requests go through the Vite proxy (/api -> FastAPI at :8000).
-const client = axios.create({ baseURL: "/api" });
+// In production (Render), VITE_API_URL is baked at build time and points
+// directly to the backend. In local dev, falls back to /api (Vite proxy).
+const BASE = import.meta.env.VITE_API_URL || "";
+const client = axios.create({ baseURL: BASE });
 
 client.interceptors.request.use((config) => {
   const token = localStorage.getItem("vizhi_access");
@@ -21,7 +23,7 @@ client.interceptors.response.use(
         try {
           refreshing =
             refreshing ||
-            axios.post("/api/auth/refresh", { refresh_token: refresh });
+            axios.post(`${BASE}/auth/refresh`, { refresh_token: refresh });
           const { data } = await refreshing;
           refreshing = null;
           localStorage.setItem("vizhi_access", data.access_token);

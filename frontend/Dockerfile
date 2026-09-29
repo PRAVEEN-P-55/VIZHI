@@ -3,15 +3,12 @@ WORKDIR /app
 COPY frontend/package*.json ./
 RUN npm ci
 COPY frontend ./
+# VITE_API_URL is passed as a build arg so it gets baked into the JS bundle
+ARG VITE_API_URL
+ENV VITE_API_URL=$VITE_API_URL
 RUN npm run build
 
 FROM nginx:1.27-alpine
-# Install gettext for envsubst (replaces $BACKEND_URL in nginx.conf at startup)
-RUN apk add --no-cache gettext
-# Store as template; entrypoint will run envsubst before nginx starts
-COPY frontend/nginx.conf /etc/nginx/templates/default.conf.template
+COPY frontend/nginx.conf /etc/nginx/conf.d/default.conf
 COPY --from=build /app/dist /usr/share/nginx/html
 EXPOSE 80
-# BACKEND_URL default works for local docker-compose; override on Render.
-ENV BACKEND_URL=http://localhost:8000
-CMD ["/bin/sh", "-c", "envsubst '${BACKEND_URL}' < /etc/nginx/templates/default.conf.template > /etc/nginx/conf.d/default.conf && nginx -g 'daemon off;'"]
