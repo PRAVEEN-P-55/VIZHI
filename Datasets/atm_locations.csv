@@ -1,0 +1,301 @@
+atm_id,bank_name,district,pin_code,lat,lon,atm_type,near_landmark
+ATM-TN-00001,ICICI,Chennai,600001,13.085447,80.258279,on-site,Railway Station
+ATM-TN-00002,Bank of Baroda,Chennai,600002,13.091201,80.24291,on-site,Bus Stand
+ATM-TN-00003,Bank of Baroda,Chennai,600003,13.088587,80.296153,on-site,Market
+ATM-TN-00004,Axis Bank,Chennai,600004,13.062275,80.244812,on-site,Residential Area
+ATM-TN-00005,Canara Bank,Chennai,600005,13.0681,80.279837,micro,Commercial Area
+ATM-TN-00006,Canara Bank,Chennai,600006,13.062948,80.272684,micro,Railway Station
+ATM-TN-00007,Bank of Baroda,Chennai,600007,13.100492,80.294314,micro,Bus Stand
+ATM-TN-00008,Bank of Baroda,Chennai,600008,13.094842,80.243335,off-site,Market
+ATM-TN-00009,Axis Bank,Chennai,600009,13.057227,80.275927,off-site,Residential Area
+ATM-TN-00010,HDFC,Chennai,600010,13.080029,80.293013,off-site,Commercial Area
+ATM-TN-00011,SBI,Chennai,600011,13.110013,80.286378,off-site,Railway Station
+ATM-TN-00012,ICICI,Chennai,600012,13.109634,80.279465,off-site,Bus Stand
+ATM-TN-00013,Axis Bank,Chennai,600013,13.073459,80.264249,off-site,Market
+ATM-TN-00014,SBI,Chennai,600014,13.08923,80.280366,off-site,Residential Area
+ATM-TN-00015,ICICI,Chennai,600015,13.090101,80.283138,off-site,Commercial Area
+ATM-TN-00016,SBI,Chennai,600016,13.076101,80.281333,off-site,Railway Station
+ATM-TN-00017,HDFC,Chennai,600017,13.101043,80.265108,off-site,Bus Stand
+ATM-TN-00018,ICICI,Chennai,600018,13.098307,80.2712,off-site,Market
+ATM-TN-00019,Indian Bank,Chennai,600019,13.072291,80.270812,off-site,Residential Area
+ATM-TN-00020,HDFC,Chennai,600020,13.08632,80.24295,off-site,Commercial Area
+ATM-TN-00021,Indian Bank,Chennai,600021,13.073713,80.270969,off-site,Railway Station
+ATM-TN-00022,Indian Bank,Chennai,600022,13.082345,80.285131,off-site,Bus Stand
+ATM-TN-00023,ICICI,Chennai,600023,13.079897,80.273892,off-site,Market
+ATM-TN-00024,HDFC,Chennai,600024,13.068051,80.285285,off-site,Residential Area
+ATM-TN-00025,Canara Bank,Chennai,600025,13.073042,80.272494,off-site,Commercial Area
+ATM-TN-00026,Bank of Baroda,Coimbatore,641026,11.046321,76.971509,on-site,Railway Station
+ATM-TN-00027,ICICI,Coimbatore,641027,11.042657,76.948266,on-site,Bus Stand
+ATM-TN-00028,Bank of Baroda,Coimbatore,641028,11.036919,76.984431,on-site,Market
+ATM-TN-00029,Canara Bank,Coimbatore,641029,11.036887,76.943441,on-site,Residential Area
+ATM-TN-00030,ICICI,Coimbatore,641030,11.02553,76.941405,micro,Commercial Area
+ATM-TN-00031,ICICI,Coimbatore,641031,10.988717,76.965319,micro,Railway Station
+ATM-TN-00032,Axis Bank,Coimbatore,641032,11.017958,76.966246,micro,Bus Stand
+ATM-TN-00033,Axis Bank,Coimbatore,641033,10.996358,76.954223,off-site,Market
+ATM-TN-00034,HDFC,Coimbatore,641034,11.003114,76.980986,off-site,Residential Area
+ATM-TN-00035,ICICI,Coimbatore,641035,10.988653,76.952229,off-site,Commercial Area
+ATM-TN-00036,ICICI,Coimbatore,641036,11.045817,76.966957,off-site,Railway Station
+ATM-TN-00037,ICICI,Coimbatore,641037,11.046477,76.945463,off-site,Bus Stand
+ATM-TN-00038,HDFC,Coimbatore,641038,11.005465,76.926641,off-site,Market
+ATM-TN-00039,Indian Bank,Coimbatore,641039,11.012101,76.951461,off-site,Residential Area
+ATM-TN-00040,Bank of Baroda,Coimbatore,641040,11.024829,76.953177,off-site,Commercial Area
+ATM-TN-00041,Bank of Baroda,Coimbatore,641041,11.011713,76.92862,off-site,Railway Station
+ATM-TN-00042,ICICI,Coimbatore,641042,11.034616,76.977405,off-site,Bus Stand
+ATM-TN-00043,SBI,Coimbatore,641043,11.018904,76.941661,off-site,Market
+ATM-TN-00044,HDFC,Coimbatore,641044,11.026781,76.938803,off-site,Residential Area
+ATM-TN-00045,HDFC,Coimbatore,641045,11.028482,76.931085,off-site,Commercial Area
+ATM-TN-00046,Indian Bank,Coimbatore,641046,11.03616,76.948532,off-site,Railway Station
+ATM-TN-00047,SBI,Coimbatore,641047,11.01138,76.935224,off-site,Bus Stand
+ATM-TN-00048,Axis Bank,Coimbatore,641048,11.019933,76.964152,off-site,Market
+ATM-TN-00049,Indian Bank,Coimbatore,641049,11.013165,76.952002,off-site,Residential Area
+ATM-TN-00050,HDFC,Coimbatore,641050,10.996679,76.977833,off-site,Commercial Area
+ATM-TN-00051,Bank of Baroda,Madurai,625051,9.951724,78.124642,on-site,Railway Station
+ATM-TN-00052,Bank of Baroda,Madurai,625052,9.940276,78.129052,on-site,Bus Stand
+ATM-TN-00053,SBI,Madurai,625053,9.946196,78.135611,on-site,Market
+ATM-TN-00054,Axis Bank,Madurai,625054,9.921423,78.101455,on-site,Residential Area
+ATM-TN-00055,Indian Bank,Madurai,625055,9.931833,78.100932,micro,Commercial Area
+ATM-TN-00056,Indian Bank,Madurai,625056,9.942642,78.10329,micro,Railway Station
+ATM-TN-00057,Bank of Baroda,Madurai,625057,9.943394,78.130275,micro,Bus Stand
+ATM-TN-00058,ICICI,Madurai,625058,9.924725,78.109181,off-site,Market
+ATM-TN-00059,ICICI,Madurai,625059,9.897373,78.140245,off-site,Residential Area
+ATM-TN-00060,ICICI,Madurai,625060,9.953961,78.110962,off-site,Commercial Area
+ATM-TN-00061,HDFC,Madurai,625061,9.903514,78.093755,off-site,Railway Station
+ATM-TN-00062,HDFC,Madurai,625062,9.932037,78.116205,off-site,Bus Stand
+ATM-TN-00063,HDFC,Madurai,625063,9.950899,78.112833,off-site,Market
+ATM-TN-00064,SBI,Madurai,625064,9.953283,78.114946,off-site,Residential Area
+ATM-TN-00065,Bank of Baroda,Madurai,625065,9.902451,78.120188,off-site,Commercial Area
+ATM-TN-00066,Bank of Baroda,Madurai,625066,9.941676,78.122477,off-site,Railway Station
+ATM-TN-00067,ICICI,Madurai,625067,9.895448,78.129008,off-site,Bus Stand
+ATM-TN-00068,Axis Bank,Madurai,625068,9.909589,78.129494,off-site,Market
+ATM-TN-00069,Bank of Baroda,Madurai,625069,9.936899,78.102356,off-site,Residential Area
+ATM-TN-00070,HDFC,Madurai,625070,9.909457,78.096616,off-site,Commercial Area
+ATM-TN-00071,HDFC,Madurai,625071,9.929631,78.126961,off-site,Railway Station
+ATM-TN-00072,ICICI,Madurai,625072,9.930652,78.120774,off-site,Bus Stand
+ATM-TN-00073,ICICI,Madurai,625073,9.913734,78.131317,off-site,Market
+ATM-TN-00074,HDFC,Madurai,625074,9.935189,78.141436,off-site,Residential Area
+ATM-TN-00075,Canara Bank,Madurai,625075,9.919353,78.091966,off-site,Commercial Area
+ATM-TN-00076,ICICI,Salem,636076,11.646962,78.116449,on-site,Railway Station
+ATM-TN-00077,Bank of Baroda,Salem,636077,11.691957,78.138404,on-site,Bus Stand
+ATM-TN-00078,Canara Bank,Salem,636078,11.668274,78.150914,on-site,Market
+ATM-TN-00079,Indian Bank,Salem,636079,11.665031,78.117916,on-site,Residential Area
+ATM-TN-00080,Axis Bank,Salem,636080,11.664037,78.137666,micro,Commercial Area
+ATM-TN-00081,ICICI,Salem,636081,11.69173,78.164344,micro,Railway Station
+ATM-TN-00082,Canara Bank,Salem,636082,11.654052,78.129652,micro,Bus Stand
+ATM-TN-00083,Axis Bank,Salem,636083,11.67015,78.15389,off-site,Market
+ATM-TN-00084,HDFC,Salem,636084,11.665602,78.138056,off-site,Residential Area
+ATM-TN-00085,Axis Bank,Salem,636085,11.693251,78.116736,off-site,Commercial Area
+ATM-TN-00086,Canara Bank,Salem,636086,11.684621,78.122121,off-site,Railway Station
+ATM-TN-00087,ICICI,Salem,636087,11.685116,78.143602,off-site,Bus Stand
+ATM-TN-00088,Canara Bank,Salem,636088,11.683599,78.145244,off-site,Market
+ATM-TN-00089,SBI,Salem,636089,11.677297,78.116471,off-site,Residential Area
+ATM-TN-00090,Axis Bank,Salem,636090,11.685557,78.1387,off-site,Commercial Area
+ATM-TN-00091,Axis Bank,Salem,636091,11.665389,78.117302,off-site,Railway Station
+ATM-TN-00092,Indian Bank,Salem,636092,11.650383,78.167449,off-site,Bus Stand
+ATM-TN-00093,Indian Bank,Salem,636093,11.651806,78.157582,off-site,Market
+ATM-TN-00094,ICICI,Salem,636094,11.686235,78.164032,off-site,Residential Area
+ATM-TN-00095,HDFC,Salem,636095,11.664461,78.148867,off-site,Commercial Area
+ATM-TN-00096,Bank of Baroda,Salem,636096,11.64785,78.127841,off-site,Railway Station
+ATM-TN-00097,HDFC,Salem,636097,11.686658,78.155039,off-site,Bus Stand
+ATM-TN-00098,Bank of Baroda,Salem,636098,11.687046,78.156694,off-site,Market
+ATM-TN-00099,Canara Bank,Salem,636099,11.689511,78.140618,off-site,Residential Area
+ATM-TN-00100,ICICI,Salem,636100,11.682682,78.124683,off-site,Commercial Area
+ATM-TN-00101,Indian Bank,Tiruchirappalli,620101,10.760735,78.733578,on-site,Railway Station
+ATM-TN-00102,Canara Bank,Tiruchirappalli,620102,10.768905,78.691469,on-site,Bus Stand
+ATM-TN-00103,Bank of Baroda,Tiruchirappalli,620103,10.774925,78.682415,on-site,Market
+ATM-TN-00104,HDFC,Tiruchirappalli,620104,10.784153,78.732405,on-site,Residential Area
+ATM-TN-00105,Canara Bank,Tiruchirappalli,620105,10.788345,78.725463,micro,Commercial Area
+ATM-TN-00106,ICICI,Tiruchirappalli,620106,10.802873,78.696985,micro,Railway Station
+ATM-TN-00107,Canara Bank,Tiruchirappalli,620107,10.817235,78.709766,micro,Bus Stand
+ATM-TN-00108,SBI,Tiruchirappalli,620108,10.788808,78.694173,off-site,Market
+ATM-TN-00109,Indian Bank,Tiruchirappalli,620109,10.767759,78.705985,off-site,Residential Area
+ATM-TN-00110,Canara Bank,Tiruchirappalli,620110,10.763533,78.721867,off-site,Commercial Area
+ATM-TN-00111,Bank of Baroda,Tiruchirappalli,620111,10.798051,78.703174,off-site,Railway Station
+ATM-TN-00112,HDFC,Tiruchirappalli,620112,10.80755,78.717207,off-site,Bus Stand
+ATM-TN-00113,Axis Bank,Tiruchirappalli,620113,10.818483,78.684214,off-site,Market
+ATM-TN-00114,Bank of Baroda,Tiruchirappalli,620114,10.814979,78.689146,off-site,Residential Area
+ATM-TN-00115,Canara Bank,Tiruchirappalli,620115,10.805035,78.691319,off-site,Commercial Area
+ATM-TN-00116,Canara Bank,Tiruchirappalli,620116,10.777375,78.685452,off-site,Railway Station
+ATM-TN-00117,Bank of Baroda,Tiruchirappalli,620117,10.803275,78.706225,off-site,Bus Stand
+ATM-TN-00118,Indian Bank,Tiruchirappalli,620118,10.794644,78.720817,off-site,Market
+ATM-TN-00119,Axis Bank,Tiruchirappalli,620119,10.793634,78.721782,off-site,Residential Area
+ATM-TN-00120,ICICI,Tiruchirappalli,620120,10.777577,78.692308,off-site,Commercial Area
+ATM-TN-00121,Canara Bank,Tiruchirappalli,620121,10.809051,78.675529,off-site,Railway Station
+ATM-TN-00122,Axis Bank,Tiruchirappalli,620122,10.778703,78.720931,off-site,Bus Stand
+ATM-TN-00123,Axis Bank,Tiruchirappalli,620123,10.784935,78.717184,off-site,Market
+ATM-TN-00124,Canara Bank,Tiruchirappalli,620124,10.801979,78.734452,off-site,Residential Area
+ATM-TN-00125,Canara Bank,Tiruchirappalli,620125,10.803269,78.723248,off-site,Commercial Area
+ATM-TN-00126,Indian Bank,Tiruppur,641126,11.101386,77.316755,on-site,Railway Station
+ATM-TN-00127,ICICI,Tiruppur,641127,11.111345,77.360323,on-site,Bus Stand
+ATM-TN-00128,ICICI,Tiruppur,641128,11.118686,77.323586,on-site,Market
+ATM-TN-00129,ICICI,Tiruppur,641129,11.111513,77.345298,on-site,Residential Area
+ATM-TN-00130,Bank of Baroda,Tiruppur,641130,11.122544,77.368024,micro,Commercial Area
+ATM-TN-00131,Canara Bank,Tiruppur,641131,11.12145,77.363158,micro,Railway Station
+ATM-TN-00132,Indian Bank,Tiruppur,641132,11.120642,77.355009,micro,Bus Stand
+ATM-TN-00133,Bank of Baroda,Tiruppur,641133,11.131098,77.350397,off-site,Market
+ATM-TN-00134,Canara Bank,Tiruppur,641134,11.085385,77.311952,off-site,Residential Area
+ATM-TN-00135,SBI,Tiruppur,641135,11.120305,77.361135,off-site,Commercial Area
+ATM-TN-00136,SBI,Tiruppur,641136,11.125759,77.33031,off-site,Railway Station
+ATM-TN-00137,Indian Bank,Tiruppur,641137,11.087123,77.320367,off-site,Bus Stand
+ATM-TN-00138,HDFC,Tiruppur,641138,11.137567,77.359467,off-site,Market
+ATM-TN-00139,ICICI,Tiruppur,641139,11.116504,77.323573,off-site,Residential Area
+ATM-TN-00140,Axis Bank,Tiruppur,641140,11.118774,77.353767,off-site,Commercial Area
+ATM-TN-00141,ICICI,Tiruppur,641141,11.108299,77.363572,off-site,Railway Station
+ATM-TN-00142,Canara Bank,Tiruppur,641142,11.134622,77.36537,off-site,Bus Stand
+ATM-TN-00143,Axis Bank,Tiruppur,641143,11.08895,77.344394,off-site,Market
+ATM-TN-00144,Indian Bank,Tiruppur,641144,11.114047,77.363358,off-site,Residential Area
+ATM-TN-00145,ICICI,Tiruppur,641145,11.105398,77.352914,off-site,Commercial Area
+ATM-TN-00146,Axis Bank,Tiruppur,641146,11.108518,77.352041,off-site,Railway Station
+ATM-TN-00147,HDFC,Tiruppur,641147,11.104994,77.324135,off-site,Bus Stand
+ATM-TN-00148,HDFC,Tiruppur,641148,11.095709,77.320762,off-site,Market
+ATM-TN-00149,Bank of Baroda,Tiruppur,641149,11.109887,77.349175,off-site,Residential Area
+ATM-TN-00150,Axis Bank,Tiruppur,641150,11.135181,77.328093,off-site,Commercial Area
+ATM-TN-00151,ICICI,Erode,638151,11.352679,77.719856,on-site,Railway Station
+ATM-TN-00152,HDFC,Erode,638152,11.313446,77.740239,on-site,Bus Stand
+ATM-TN-00153,Axis Bank,Erode,638153,11.361856,77.745789,on-site,Market
+ATM-TN-00154,Axis Bank,Erode,638154,11.347678,77.689898,on-site,Residential Area
+ATM-TN-00155,ICICI,Erode,638155,11.366308,77.692263,micro,Commercial Area
+ATM-TN-00156,Axis Bank,Erode,638156,11.358954,77.696214,micro,Railway Station
+ATM-TN-00157,SBI,Erode,638157,11.314701,77.746109,micro,Bus Stand
+ATM-TN-00158,Canara Bank,Erode,638158,11.354292,77.738729,off-site,Market
+ATM-TN-00159,SBI,Erode,638159,11.337008,77.734835,off-site,Residential Area
+ATM-TN-00160,Bank of Baroda,Erode,638160,11.325386,77.722782,off-site,Commercial Area
+ATM-TN-00161,Axis Bank,Erode,638161,11.351567,77.690335,off-site,Railway Station
+ATM-TN-00162,Indian Bank,Erode,638162,11.344972,77.743243,off-site,Bus Stand
+ATM-TN-00163,Canara Bank,Erode,638163,11.313677,77.714,off-site,Market
+ATM-TN-00164,Axis Bank,Erode,638164,11.33507,77.701964,off-site,Residential Area
+ATM-TN-00165,SBI,Erode,638165,11.328327,77.718784,off-site,Commercial Area
+ATM-TN-00166,ICICI,Erode,638166,11.3559,77.704659,off-site,Railway Station
+ATM-TN-00167,Bank of Baroda,Erode,638167,11.318917,77.721947,off-site,Bus Stand
+ATM-TN-00168,SBI,Erode,638168,11.354958,77.696423,off-site,Market
+ATM-TN-00169,SBI,Erode,638169,11.336491,77.742608,off-site,Residential Area
+ATM-TN-00170,SBI,Erode,638170,11.328416,77.728443,off-site,Commercial Area
+ATM-TN-00171,Axis Bank,Erode,638171,11.32575,77.734979,off-site,Railway Station
+ATM-TN-00172,Axis Bank,Erode,638172,11.359883,77.687505,off-site,Bus Stand
+ATM-TN-00173,Bank of Baroda,Erode,638173,11.345982,77.700299,off-site,Market
+ATM-TN-00174,HDFC,Erode,638174,11.340333,77.722544,off-site,Residential Area
+ATM-TN-00175,Axis Bank,Erode,638175,11.319458,77.730239,off-site,Commercial Area
+ATM-TN-00176,SBI,Vellore,632176,12.941811,79.114476,on-site,Railway Station
+ATM-TN-00177,Axis Bank,Vellore,632177,12.893601,79.159694,on-site,Bus Stand
+ATM-TN-00178,Bank of Baroda,Vellore,632178,12.894998,79.116887,on-site,Market
+ATM-TN-00179,Canara Bank,Vellore,632179,12.913393,79.131789,on-site,Residential Area
+ATM-TN-00180,SBI,Vellore,632180,12.887678,79.106307,micro,Commercial Area
+ATM-TN-00181,Canara Bank,Vellore,632181,12.944316,79.126798,micro,Railway Station
+ATM-TN-00182,ICICI,Vellore,632182,12.933883,79.113447,micro,Bus Stand
+ATM-TN-00183,Indian Bank,Vellore,632183,12.936001,79.113333,off-site,Market
+ATM-TN-00184,SBI,Vellore,632184,12.888345,79.124038,off-site,Residential Area
+ATM-TN-00185,ICICI,Vellore,632185,12.925983,79.143016,off-site,Commercial Area
+ATM-TN-00186,Axis Bank,Vellore,632186,12.898809,79.153563,off-site,Railway Station
+ATM-TN-00187,Axis Bank,Vellore,632187,12.927714,79.162062,off-site,Bus Stand
+ATM-TN-00188,HDFC,Vellore,632188,12.921543,79.119373,off-site,Market
+ATM-TN-00189,SBI,Vellore,632189,12.890597,79.153094,off-site,Residential Area
+ATM-TN-00190,HDFC,Vellore,632190,12.915801,79.151685,off-site,Commercial Area
+ATM-TN-00191,Axis Bank,Vellore,632191,12.926843,79.15783,off-site,Railway Station
+ATM-TN-00192,ICICI,Vellore,632192,12.940622,79.12575,off-site,Bus Stand
+ATM-TN-00193,Indian Bank,Vellore,632193,12.917138,79.105938,off-site,Market
+ATM-TN-00194,Canara Bank,Vellore,632194,12.930437,79.103503,off-site,Residential Area
+ATM-TN-00195,Canara Bank,Vellore,632195,12.915376,79.152795,off-site,Commercial Area
+ATM-TN-00196,Indian Bank,Vellore,632196,12.927006,79.151041,off-site,Railway Station
+ATM-TN-00197,Indian Bank,Vellore,632197,12.889248,79.103524,off-site,Bus Stand
+ATM-TN-00198,Bank of Baroda,Vellore,632198,12.898333,79.151984,off-site,Market
+ATM-TN-00199,Axis Bank,Vellore,632199,12.942755,79.151357,off-site,Residential Area
+ATM-TN-00200,Canara Bank,Vellore,632200,12.942209,79.135476,off-site,Commercial Area
+ATM-TN-00201,Bank of Baroda,Thanjavur,613201,10.765487,79.111447,on-site,Railway Station
+ATM-TN-00202,ICICI,Thanjavur,613202,10.799308,79.135112,on-site,Bus Stand
+ATM-TN-00203,SBI,Thanjavur,613203,10.804372,79.152478,on-site,Market
+ATM-TN-00204,Bank of Baroda,Thanjavur,613204,10.772931,79.132051,on-site,Residential Area
+ATM-TN-00205,HDFC,Thanjavur,613205,10.786161,79.121204,micro,Commercial Area
+ATM-TN-00206,Indian Bank,Thanjavur,613206,10.771101,79.139422,micro,Railway Station
+ATM-TN-00207,HDFC,Thanjavur,613207,10.787949,79.131323,micro,Bus Stand
+ATM-TN-00208,SBI,Thanjavur,613208,10.76445,79.112708,off-site,Market
+ATM-TN-00209,Bank of Baroda,Thanjavur,613209,10.807994,79.150461,off-site,Residential Area
+ATM-TN-00210,HDFC,Thanjavur,613210,10.81259,79.145545,off-site,Commercial Area
+ATM-TN-00211,SBI,Thanjavur,613211,10.767908,79.147389,off-site,Railway Station
+ATM-TN-00212,Axis Bank,Thanjavur,613212,10.801148,79.166258,off-site,Bus Stand
+ATM-TN-00213,Bank of Baroda,Thanjavur,613213,10.786875,79.156632,off-site,Market
+ATM-TN-00214,Canara Bank,Thanjavur,613214,10.807918,79.110094,off-site,Residential Area
+ATM-TN-00215,Axis Bank,Thanjavur,613215,10.80395,79.137393,off-site,Commercial Area
+ATM-TN-00216,Bank of Baroda,Thanjavur,613216,10.816017,79.147944,off-site,Railway Station
+ATM-TN-00217,Axis Bank,Thanjavur,613217,10.803607,79.111354,off-site,Bus Stand
+ATM-TN-00218,SBI,Thanjavur,613218,10.813686,79.114024,off-site,Market
+ATM-TN-00219,HDFC,Thanjavur,613219,10.80283,79.166031,off-site,Residential Area
+ATM-TN-00220,HDFC,Thanjavur,613220,10.806802,79.154735,off-site,Commercial Area
+ATM-TN-00221,SBI,Thanjavur,613221,10.81215,79.137882,off-site,Railway Station
+ATM-TN-00222,SBI,Thanjavur,613222,10.814872,79.129859,off-site,Bus Stand
+ATM-TN-00223,Bank of Baroda,Thanjavur,613223,10.787275,79.112068,off-site,Market
+ATM-TN-00224,Bank of Baroda,Thanjavur,613224,10.801385,79.121742,off-site,Residential Area
+ATM-TN-00225,Canara Bank,Thanjavur,613225,10.774042,79.11325,off-site,Commercial Area
+ATM-TN-00226,Indian Bank,Dindigul,624226,10.389445,77.958328,on-site,Railway Station
+ATM-TN-00227,Canara Bank,Dindigul,624227,10.364348,77.972252,on-site,Bus Stand
+ATM-TN-00228,Bank of Baroda,Dindigul,624228,10.386719,77.978486,on-site,Market
+ATM-TN-00229,Canara Bank,Dindigul,624229,10.395115,77.955558,on-site,Residential Area
+ATM-TN-00230,Canara Bank,Dindigul,624230,10.376821,77.971828,micro,Commercial Area
+ATM-TN-00231,Bank of Baroda,Dindigul,624231,10.366448,77.986394,micro,Railway Station
+ATM-TN-00232,ICICI,Dindigul,624232,10.356737,78.007641,micro,Bus Stand
+ATM-TN-00233,Canara Bank,Dindigul,624233,10.340335,77.991443,off-site,Market
+ATM-TN-00234,Canara Bank,Dindigul,624234,10.396443,77.953673,off-site,Residential Area
+ATM-TN-00235,Bank of Baroda,Dindigul,624235,10.379948,77.981619,off-site,Commercial Area
+ATM-TN-00236,Canara Bank,Dindigul,624236,10.370187,77.967693,off-site,Railway Station
+ATM-TN-00237,Indian Bank,Dindigul,624237,10.348549,77.9978,off-site,Bus Stand
+ATM-TN-00238,Bank of Baroda,Dindigul,624238,10.346169,77.998626,off-site,Market
+ATM-TN-00239,Axis Bank,Dindigul,624239,10.349816,77.969375,off-site,Residential Area
+ATM-TN-00240,Axis Bank,Dindigul,624240,10.391592,78.002661,off-site,Commercial Area
+ATM-TN-00241,Canara Bank,Dindigul,624241,10.387295,78.008996,off-site,Railway Station
+ATM-TN-00242,HDFC,Dindigul,624242,10.379987,77.980681,off-site,Bus Stand
+ATM-TN-00243,Axis Bank,Dindigul,624243,10.393119,77.95856,off-site,Market
+ATM-TN-00244,Indian Bank,Dindigul,624244,10.393039,77.984312,off-site,Residential Area
+ATM-TN-00245,SBI,Dindigul,624245,10.369956,77.996114,off-site,Commercial Area
+ATM-TN-00246,Axis Bank,Dindigul,624246,10.391714,77.95618,off-site,Railway Station
+ATM-TN-00247,Canara Bank,Dindigul,624247,10.337969,78.002896,off-site,Bus Stand
+ATM-TN-00248,HDFC,Dindigul,624248,10.337453,77.957604,off-site,Market
+ATM-TN-00249,Indian Bank,Dindigul,624249,10.390892,77.964925,off-site,Residential Area
+ATM-TN-00250,Bank of Baroda,Dindigul,624250,10.343659,77.991789,off-site,Commercial Area
+ATM-TN-00251,Indian Bank,Tirunelveli,627251,8.743763,77.730439,on-site,Railway Station
+ATM-TN-00252,Indian Bank,Tirunelveli,627252,8.68867,77.736497,on-site,Bus Stand
+ATM-TN-00253,Bank of Baroda,Tirunelveli,627253,8.700493,77.75161,on-site,Market
+ATM-TN-00254,Axis Bank,Tirunelveli,627254,8.696898,77.771987,on-site,Residential Area
+ATM-TN-00255,Canara Bank,Tirunelveli,627255,8.714776,77.740767,micro,Commercial Area
+ATM-TN-00256,Indian Bank,Tirunelveli,627256,8.697122,77.781356,micro,Railway Station
+ATM-TN-00257,Canara Bank,Tirunelveli,627257,8.707737,77.766714,micro,Bus Stand
+ATM-TN-00258,Bank of Baroda,Tirunelveli,627258,8.691733,77.76862,off-site,Market
+ATM-TN-00259,Bank of Baroda,Tirunelveli,627259,8.698328,77.783371,off-site,Residential Area
+ATM-TN-00260,ICICI,Tirunelveli,627260,8.737276,77.743216,off-site,Commercial Area
+ATM-TN-00261,Canara Bank,Tirunelveli,627261,8.729525,77.732928,off-site,Railway Station
+ATM-TN-00262,SBI,Tirunelveli,627262,8.720262,77.734758,off-site,Bus Stand
+ATM-TN-00263,Axis Bank,Tirunelveli,627263,8.722918,77.728853,off-site,Market
+ATM-TN-00264,HDFC,Tirunelveli,627264,8.717024,77.786536,off-site,Residential Area
+ATM-TN-00265,Indian Bank,Tirunelveli,627265,8.718713,77.762476,off-site,Commercial Area
+ATM-TN-00266,SBI,Tirunelveli,627266,8.70796,77.767605,off-site,Railway Station
+ATM-TN-00267,ICICI,Tirunelveli,627267,8.688356,77.761418,off-site,Bus Stand
+ATM-TN-00268,Indian Bank,Tirunelveli,627268,8.711484,77.762325,off-site,Market
+ATM-TN-00269,HDFC,Tirunelveli,627269,8.685782,77.74786,off-site,Residential Area
+ATM-TN-00270,HDFC,Tirunelveli,627270,8.686598,77.737219,off-site,Commercial Area
+ATM-TN-00271,Canara Bank,Tirunelveli,627271,8.725213,77.747751,off-site,Railway Station
+ATM-TN-00272,HDFC,Tirunelveli,627272,8.7008,77.779319,off-site,Bus Stand
+ATM-TN-00273,Axis Bank,Tirunelveli,627273,8.740492,77.744704,off-site,Market
+ATM-TN-00274,Canara Bank,Tirunelveli,627274,8.701234,77.78202,off-site,Residential Area
+ATM-TN-00275,Bank of Baroda,Tirunelveli,627275,8.691833,77.734801,off-site,Commercial Area
+ATM-TN-00276,SBI,Thoothukudi,628276,8.75065,78.145176,on-site,Railway Station
+ATM-TN-00277,Canara Bank,Thoothukudi,628277,8.745594,78.161753,on-site,Bus Stand
+ATM-TN-00278,Canara Bank,Thoothukudi,628278,8.748258,78.143683,on-site,Market
+ATM-TN-00279,Bank of Baroda,Thoothukudi,628279,8.75321,78.136333,on-site,Residential Area
+ATM-TN-00280,Bank of Baroda,Thoothukudi,628280,8.759158,78.136642,micro,Commercial Area
+ATM-TN-00281,SBI,Thoothukudi,628281,8.792574,78.106334,micro,Railway Station
+ATM-TN-00282,Indian Bank,Thoothukudi,628282,8.771788,78.154355,micro,Bus Stand
+ATM-TN-00283,ICICI,Thoothukudi,628283,8.773515,78.159083,off-site,Market
+ATM-TN-00284,Axis Bank,Thoothukudi,628284,8.747083,78.116664,off-site,Residential Area
+ATM-TN-00285,Indian Bank,Thoothukudi,628285,8.76892,78.130881,off-site,Commercial Area
+ATM-TN-00286,SBI,Thoothukudi,628286,8.739802,78.117029,off-site,Railway Station
+ATM-TN-00287,HDFC,Thoothukudi,628287,8.790577,78.138727,off-site,Bus Stand
+ATM-TN-00288,SBI,Thoothukudi,628288,8.742796,78.160222,off-site,Market
+ATM-TN-00289,HDFC,Thoothukudi,628289,8.743273,78.115059,off-site,Residential Area
+ATM-TN-00290,Axis Bank,Thoothukudi,628290,8.780367,78.105104,off-site,Commercial Area
+ATM-TN-00291,SBI,Thoothukudi,628291,8.736147,78.125689,off-site,Railway Station
+ATM-TN-00292,ICICI,Thoothukudi,628292,8.780096,78.109469,off-site,Bus Stand
+ATM-TN-00293,ICICI,Thoothukudi,628293,8.762628,78.124254,off-site,Market
+ATM-TN-00294,HDFC,Thoothukudi,628294,8.775211,78.144787,off-site,Residential Area
+ATM-TN-00295,HDFC,Thoothukudi,628295,8.792869,78.123557,off-site,Commercial Area
+ATM-TN-00296,Canara Bank,Thoothukudi,628296,8.754632,78.122996,off-site,Railway Station
+ATM-TN-00297,ICICI,Thoothukudi,628297,8.761542,78.138657,off-site,Bus Stand
+ATM-TN-00298,Canara Bank,Thoothukudi,628298,8.760576,78.160477,off-site,Market
+ATM-TN-00299,Canara Bank,Thoothukudi,628299,8.760141,78.155016,off-site,Residential Area
+ATM-TN-00300,SBI,Thoothukudi,628300,8.765966,78.121659,off-site,Commercial Area
