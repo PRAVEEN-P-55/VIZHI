@@ -11,5 +11,9 @@ COPY backend /app/backend
 COPY Datasets /app/Datasets
 WORKDIR /app/backend
 
+# Pre-train ML models at build time so the container starts instantly on Render.
+# Uses the bundled CSV datasets; no external data source needed.
+RUN python train.py
+
 EXPOSE 8000
 CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000"]

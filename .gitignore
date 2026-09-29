@@ -9,3 +9,4 @@ frontend/dist/
 frontend/.codex-build-check/
 *.log
 .DS_Store
+*.db
